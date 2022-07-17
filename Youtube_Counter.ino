@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <WiFiClientSecure.h>
 
-#include <YoutubeApi.h>
+#include <YoutubeApi.h>   //Setup API Key here https://github.com/witnessmenow/arduino-youtube-api
 #include <ArduinoJson.h>
 #include <TM1637TinyDisplay.h>
 #include <Arduino.h>  
